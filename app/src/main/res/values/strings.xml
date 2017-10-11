@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Índice de Masa Corporal</string>
+    <string name="programa" translatable="false">Ingeniería de Sistemas</string>
+    <string name="Peso" translatable="false">Peso :</string>
+    <string name="estatura" translatable="false">Estatura</string>
+    <string name="calcular" translatable="false">CALCULAR</string>
+    <string name="IMC" translatable="false">IMC :</string>
+    <string name="clasificacion" translatable="false">Clasificación</string>
+    <string name="vacios" translatable="false">Campos vacios</string>
+    <string name="ingresa_peso" translatable="false">Ingrese el Peso</string>
+    <string name="ingresa_estatura" translatable="false">Ingrese la Estatura</string>
+    <string name="peso_bajo" translatable="false">Peso Bajo</string>
+    <string name="del_severa" translatable="false">Delgadez Severa</string>
+    <string name="del_moderada" translatable="false">Delgadez Moderada</string>
+    <string name="del_leve" translatable="false">Delgadez Leve</string>
+    <string name="peso_normal" translatable="false">Peso Normal</string>
+    <string name="sobrepeso" translatable="false">Sobrepeso</string>
+    <string name="preobeso" translatable="false">Preobeso</string>
+    <string name="obesidad" translatable="false">Obesidad</string>
+    <string name="obesidad_leve" translatable="false">Obesidad Leve</string>
+    <string name="obesidad_media" translatable="false">Obesidad Media</string>
+    <string name="obesidad_morbida" translatable="false">Obesidad Mórbida</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Body Mass Index</string>
+    <string name="programa" translatable="false">Systems engineer</string>
+    <string name="Peso" translatable="false">Weight :</string>
+    <string name="estatura" translatable="false">Height</string>
+    <string name="calcular" translatable="false">CALCULATE</string>
+    <string name="IMC" translatable="false">IMC :</string>
+    <string name="clasificacion" translatable="false">Classification</string>
+    <string name="vacios" translatable="false">Empty fields</string>
+    <string name="ingresa_peso" translatable="false">Enter weight</string>
+    <string name="ingresa_estatura" translatable="false">Enter height</string>
+    <string name="peso_bajo" translatable="false">Low Weight</string>
+    <string name="del_severa">Severe Thinness</string>
+    <string name="del_moderada">Moderate Thinness</string>
+    <string name="del_leve" translatable="false">Light Thinness</string>
+    <string name="peso_normal" translatable="false">Normal Weight</string>
+    <string name="sobrepeso" translatable="false">Overweight</string>
+    <string name="preobeso" translatable="false">Preobesus</string>
+    <string name="obesidad" translatable="false">Obesity</string>
+    <string name="obesidad_leve" translatable="false">Mild Obesity</string>
+    <string name="obesidad_media" translatable="false">Average Obesity</string>
+    <string name="obesidad_morbida" translatable="false">Morbid obesity</string>
+</resources>
